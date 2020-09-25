@@ -1,0 +1,117 @@
+/* background colour #95dbe5 */
+
+
+.dog-hero {
+    
+   
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  
+
+   }
+    
+
+#dog-hero-text {
+   line-height: 1.5;
+   display: inline-block;
+   vertical-align: middle;
+}
+
+
+.img {
+  display: block;
+  padding-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+
+}
+
+
+
+.btn {
+    background-color: #ff6600;
+      border-radius: 30px;
+}
+
+#signup-dog {
+    background-size:100% 100%;
+    background-color: rgba(214, 211, 211, 0.863);
+
+}
+#signup-dog img {
+    display: block;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+
+}
+
+#section1 {
+   
+    padding-top: 20px;
+    background-color: #95dbe5;
+    height: 400px;
+}
+
+#section1-bottom {
+width:500px;
+height:50px;
+border-bottom-left-radius:50%;
+border-bottom-right-radius:50%;
+    background-color: #95dbe5;
+}
+
+
+
+#section2 {
+    padding-top: 70px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    font-size:2pc;
+}   
+
+#section3 {
+    margin-top: 2%;
+}
+
+#round-bottom {
+    border-bottom-left-radius: 50% 150px !important;
+    border-bottom-right-radius: 50% 150px !important;
+    position: relative;
+    overflow: hidden;
+    width: 160%;
+    margin-bottom: -50px;
+    left: -30%;
+    background-color:#95dbe5;
+    background-size: 42% auto;
+    height: 550px;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    font-size: 4pc;
+}
+
+.centered1 {
+    position: absolute;
+    top: 40%;
+    left: 67%;
+    transform: translate(-50%, 0%);
+    color: white;
+    text-align: center;
+
+}
+
+
