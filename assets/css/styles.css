@@ -132,6 +132,17 @@ left: 10px;
     left: 30px;
 }
 
+#payments {
+    padding-top: 2%;
+}
+
+#payments img {
+    width: 40px;
+    height: 40px;
+    margin: 3px;
+
+}
+
 .delivery-image {
     background: url("../images/pattern-desktop.png");
     
